@@ -6,6 +6,10 @@ public class Ejercicio04 {
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
+/*Escribe un programa que calcule el salario semanal de un trabajador teniendo
+ *  en cuenta que las horas ordinarias (40 primeras horas de trabajo) se pagan a 12
+ *  euros la hora. A partir de la hora 41, se pagan a 16 euros la hora.
+ */
 		
 		final int PRECIO_NORMAL = 12;
 		final int PRECIO_EXTRA = 16;
